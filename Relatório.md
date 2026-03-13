@@ -14,11 +14,14 @@ As funções servem para economizar trechos de código, que dentro delas tem uma
 Class é uma definição de múltiplos atributos pertencentes a um mesmo objeto, por exemplo, uma pessoa tem nome, idade, cpf e etc. O constructor é responsável por definir os atributos de uma class. E o this serve para diferenciar o dado de outros dados similares que foram definidos antes, ou seja, fala para o código que aquele dado está sendo usado naquele instante. Por exemplo: "this.nome = nome;", como se fosse: esta variável recebe nome. 
 
 Perguntas finais
+<br>
 a) Qual parte da atividade foi mais difícil? <br>
 R = Definir a função de this, para que serve.
 <br>
+<br>
 b) O que você percebeu sobre Javascript como linguagem de programação?<br>
 R = Uma linguagem legal, porém, parecida com outras linguagens, nada muito diferente.
+<br>
 <br>
 c) Como você imagina que esse código poderia ser usado em aplicações web?<br>
 R = Poderia ser usado em interações com o HTML e CSS, atribuir valores, condições, laços de repetição e etc. No geral, o JS vai fornecer mais funcionalidade e interatividade ao Front-End.
